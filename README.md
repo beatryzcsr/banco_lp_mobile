@@ -90,6 +90,10 @@ O projeto foi desenvolvido utilizando tecnologias de Front-End e Back-End, com i
 
 Nesta etapa de evolução, o sistema passou por uma atualização de sua infraestrutura, migrando o banco de dados para o Supabase, que oferece gerenciamento em nuvem utilizando PostgreSQL, e implementando a hospedagem da aplicação Web na Vercel. Também foi desenvolvida uma versão Mobile independente, utilizando React Native, que consome os serviços disponibilizados pela API deste repositório.
 
+## Documentações
+Técnica: https://docs.google.com/document/d/1LyGP2O-OBgxO33DJHcT9XqHA-HiMc7-T-QO9v7WCijA/edit?usp=sharing
+Usabilidade: https://docs.google.com/document/d/1kPiytU4YwnvRUQxxyDJNBZU-JidLrcf59-g0O3KrJiQ/edit?usp=sharing
+
 ## Grupo MegaMind — Integrantes
 
 - Beatryz Caroline dos Santos Rodrigues
